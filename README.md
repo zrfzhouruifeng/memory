@@ -1,2 +1,1 @@
-# memory
-The memory of Android
+init
